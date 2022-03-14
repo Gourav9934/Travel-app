@@ -63,7 +63,7 @@ const NavBar = () => {
                   style={{ textDecoration: 'none', color: 'black  ' }}
                 >
                   <img src={profile} alt='' srcset='' className='items' />
-                  Suweb Reza
+                  Gourav Sutradhar
                 </Link>
               </Offcanvas.Title>
             </Offcanvas.Header>
